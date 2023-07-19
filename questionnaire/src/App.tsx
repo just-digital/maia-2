@@ -96,6 +96,10 @@ function App() {
               often each statement applies to you generally in daily life with{" "}
               <strong>0=Never</strong> and <strong>5=Always</strong>.
             </Typography>
+            <Typography variant="body1" gutterBottom>
+              Your scores will be rendered immediately after you click
+              "Calcuate" and no data is stored or tracked in any way.
+            </Typography>
             <Box marginTop={3}>
               <JsonForms
                 schema={form.schema}
@@ -154,6 +158,18 @@ function App() {
           PLoS ONE 13(12): e0208034.
         </Link>
       </Typography>
+      <ul>
+        <li>
+          <Link href="https://osher.ucsf.edu/research/maia">
+            Official MAIA Website
+          </Link>
+        </li>
+        <li>
+          <Link href="https://github.com/just-digital/maia-2/">
+            Link to source code on GitHub
+          </Link>
+        </li>
+      </ul>
     </Container>
   );
 }

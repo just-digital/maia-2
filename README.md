@@ -2,7 +2,9 @@
 
 This project aims to provide an online version of the MAIA-2 questionnaire as an interactive form, along with scoring calculations.
 
-For more information, please see [https://osher.ucsf.edu/research/maia](https://osher.ucsf.edu/research/maia)
+The project is hosted generously by Github Pages at [https://just-digital.github.io/maia-2/](https://just-digital.github.io/maia-2/)
+
+For more information, please see the official MAIA website at [https://osher.ucsf.edu/research/maia](https://osher.ucsf.edu/research/maia)
 
 ## Original Articles
 
