@@ -1,14 +1,16 @@
 {
-  "main.css": "/maia-2/static/css/main.a96f852a.chunk.css",
-  "main.js": "/maia-2/static/js/main.0dc07dd7.chunk.js",
-  "main.js.map": "/maia-2/static/js/main.0dc07dd7.chunk.js.map",
-  "static/js/1.d0c238df.chunk.js": "/maia-2/static/js/1.d0c238df.chunk.js",
-  "static/js/1.d0c238df.chunk.js.map": "/maia-2/static/js/1.d0c238df.chunk.js.map",
-  "runtime~main.js": "/maia-2/static/js/runtime~main.3256584b.js",
-  "runtime~main.js.map": "/maia-2/static/js/runtime~main.3256584b.js.map",
-  "static/media/logo.svg": "/maia-2/static/media/logo.5d5d9eef.svg",
-  "static/css/main.a96f852a.chunk.css.map": "/maia-2/static/css/main.a96f852a.chunk.css.map",
-  "index.html": "/maia-2/index.html",
-  "precache-manifest.3733cce5322665c1e63dd571ac280482.js": "/maia-2/precache-manifest.3733cce5322665c1e63dd571ac280482.js",
-  "service-worker.js": "/maia-2/service-worker.js"
+  "files": {
+    "main.css": "/maia-2/static/css/main.073c9b0a.css",
+    "main.js": "/maia-2/static/js/main.2786a8ec.js",
+    "static/js/787.2bae1cdd.chunk.js": "/maia-2/static/js/787.2bae1cdd.chunk.js",
+    "static/media/logo.svg": "/maia-2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/maia-2/index.html",
+    "main.073c9b0a.css.map": "/maia-2/static/css/main.073c9b0a.css.map",
+    "main.2786a8ec.js.map": "/maia-2/static/js/main.2786a8ec.js.map",
+    "787.2bae1cdd.chunk.js.map": "/maia-2/static/js/787.2bae1cdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2786a8ec.js"
+  ]
 }
